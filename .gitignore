@@ -1,6 +1,8 @@
 *.suo
 *.user
+*.cache
 .vs
 bin
 obj
+obj/Debug
 packages

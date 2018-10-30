@@ -1,9 +1,0 @@
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\bin\Debug\Data\trainingsample.csv
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\bin\Debug\01_DigitsRecognizer.exe.config
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\bin\Debug\01_DigitsRecognizer.exe
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\bin\Debug\01_DigitsRecognizer.pdb
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\obj\Debug\01_DigitsRecognizer.csprojAssemblyReference.cache
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\obj\Debug\01_DigitsRecognizer.csproj.CoreCompileInputs.cache
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\obj\Debug\01_DigitsRecognizer.exe
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\obj\Debug\01_DigitsRecognizer.pdb
-C:\Users\BFuentes\Documents\GitHub\MachineLearningProjectsForNETDevelopers\01_DigitsRecognizer\bin\Debug\Data\validationsample.csv
